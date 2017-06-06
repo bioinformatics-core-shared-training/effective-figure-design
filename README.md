@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Designing effective scientific figures
 
-You can use the [editor on GitHub](https://github.com/bioinformatics-core-shared-training/effective-figure-design/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This course provides a practical introduction to producing figures for use in reports and publications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is a wide ranging course which looks at how to design figures to clearly and fairly represent your data, with the aim of conveying information in an effective manner. It draws on principles of visual design and provides strategies to make informed choices of figure elements and composition, and to facilitate the communication of complex results. The course also covers the practical aspects of compositing and editing of final figures and the allowable manipulation of bitmap images.
 
-### Markdown
+The course introduces the use of different open source software packages for editing images to achieve professional quality and is illustrated with example figures adapted from common analysis tools.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bioinformatics-core-shared-training/effective-figure-design/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please note: The material provided in this course is partially based on the course [Introduction to Scientific Figure Design](http://www.bioinformatics.babraham.ac.uk/training.html#figuredesign), provided by [Babraham Institute Bioinformatics Core](http://www.bioinformatics.babraham.ac.uk/training.html).
