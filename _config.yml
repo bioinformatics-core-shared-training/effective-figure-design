@@ -1,1 +1,8 @@
+title: Designing Effective Scientific Figures
+description: This course provides a practical introduction to producing figures for use in reports and publications.
+google_analytics:
+show_downloads: true
 theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
