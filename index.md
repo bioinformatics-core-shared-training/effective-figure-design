@@ -17,5 +17,6 @@ To follow the course, you will need to install the latest versions of GIMP and I
 
 # Materials
 
-- Lecture Notes
+- [Lecture Notes (morning)](DesigningEffectiveScientificFigures_Zabala_morning_v00.pdf)
+- [Lecture Notes (afternoon)](DesigningEffectiveScientificFigures_Zabala_afternoon_v00.pdf)
 - Practical
