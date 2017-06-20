@@ -19,4 +19,6 @@ To follow the course, you will need to install the latest versions of GIMP and I
 
 - [Lecture Notes (morning)](DesigningEffectiveScientificFigures_Zabala_morning_v00.pdf)
 - [Lecture Notes (afternoon)](DesigningEffectiveScientificFigures_Zabala_afternoon_v00.pdf)
-- Practical
+- [GIMP Practical](DesigningEffectiveScientificFigures_Practical_GIMP_Zabala_v00.pdf)
+- [Inkscape Practical](DesigningEffectiveScientificFigures_Practical_INKSCAPE_Zabala_v00.pdf)
+- [Files for Practical](Files_practicals.zip)
